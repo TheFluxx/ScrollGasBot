@@ -33,7 +33,3 @@ Follow these steps to set up GasTracker on the Scroll Network.
 5. **Run the Bot**:
    ```bash
    python main.py
-
-
-   
-
