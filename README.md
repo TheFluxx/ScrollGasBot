@@ -20,7 +20,7 @@ Follow these steps to set up GasTracker on the Scroll Network.
    pip install -r requirements.txt
    
 4. **Set Environment Variables**:
-   Create a .env file and add the following variables:
+   Create a .env file and add the following variables:<br>
     BOT_TOKEN=your_bot_token_here'<br>
     DB_DRIVER='postgresql+asyncpg'<br>
     DB_USERNAME='your_db_username'<br>
