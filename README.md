@@ -21,13 +21,13 @@ Follow these steps to set up GasTracker on the Scroll Network.
    
 4. **Set Environment Variables**:
    Create a .env file and add the following variables:
-    BOT_TOKEN=your_bot_token_here'\n
-    DB_DRIVER='postgresql+asyncpg'\n
-    DB_USERNAME='your_db_username'\n
-    DB_PASSWORD='your_db_password'\n
-    DB_HOST='localhost'\n
-    DB_NAME='scroll_gas_bot'\n
-    CHAT_ID='@ScrollGas'\n
+    BOT_TOKEN=your_bot_token_here'<br>
+    DB_DRIVER='postgresql+asyncpg'<br>
+    DB_USERNAME='your_db_username'<br>
+    DB_PASSWORD='your_db_password'<br>
+    DB_HOST='localhost'<br>
+    DB_NAME='scroll_gas_bot'<br>
+    CHAT_ID='@ScrollGas'<br>
    Replace your_bot_token_here, your_db_username, and your_db_password with your actual values.
 
 5. **Run the Bot**:
