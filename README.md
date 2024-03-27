@@ -31,6 +31,7 @@ Follow these steps to set up GasTracker on the Scroll Network.
    Replace your_bot_token_here, your_db_username, and your_db_password with your actual values.
 
 5. **Run the Bot**:
+   ```bash
    python main.py
 
 
